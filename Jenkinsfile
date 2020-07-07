@@ -1,4 +1,4 @@
-BuildMerge{
+BuildDeploy{
    platform = "java"
    namespace = "account"
 }
