@@ -1,4 +1,4 @@
 BuildDeploy{
-   platform = "java"
+   platform = "python"
    namespace = "account"
 }
